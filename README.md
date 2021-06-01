@@ -1,2 +1,2 @@
 # Computational-Physics
-List of work conducted during PHYS3181 course 
+List of work conducted in Computational Physics using C and Mathematica
